@@ -7,6 +7,7 @@ public class PruebaGit {
 		int b = 2;
 		int promedio = (a+b);
 		System.out.println("El promedio es: "+promedio);
+		System.out.println("chau");
 
 	}
 
